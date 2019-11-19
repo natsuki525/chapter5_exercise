@@ -10,7 +10,24 @@
 	clear: both;
 }
 
-.header {
+header {
 	width: 100%;
 	margin: 20px auto;
+	text-align: center;
+}
+
+.list {
+	width: 100%;
+	border-top: 1px solid silver;
+	border-bottom: 1px solid silver;
+	text-align: center;
+	margin: 0 auto;
+	list-style: none;
+	display: inline-block;
+}
+
+.list-item {
+	float: left;
+	padding: 15px 40px;
+	text-align: center;
 }
