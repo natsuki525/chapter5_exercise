@@ -1,1 +1,4 @@
-# chapter5_exercise
+# DMM WEBCAMPコンテンツ【ヘッダーとフッターを作ろう】
+HTML/CSSを学ぼうの5章演習課題です。
+## 使い方
+html/cssファイルのため、pcのブラウザで実行できます。
